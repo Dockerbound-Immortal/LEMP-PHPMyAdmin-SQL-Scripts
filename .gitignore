@@ -20,5 +20,8 @@ target/
 .idea/
 *.iml
 
+!init/*
+!init/
+
 mysql/
 mysql/*
